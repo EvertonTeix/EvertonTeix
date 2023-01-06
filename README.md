@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudande de Ciência da Computação na Universidade Federal do Ceará e aqui está tudo que sei e o que estou aprendendo em relação a programação.
+    Sou estudande de Ciência da Computação na Universidade Federal do Ceará e aqui está tudo que sei e o que estou aprendendo em relação à programação.
   </p>
   
 </div>
