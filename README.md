@@ -10,15 +10,15 @@
 <br>
 <div align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EvertonTeix&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ##
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="C" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="C" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  
 </div><br>
 
