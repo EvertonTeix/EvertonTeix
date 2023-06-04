@@ -6,7 +6,6 @@
   </h1>
   
 </div>
-
  <img align="right" alt="PC GIF" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width = "30%" />
 <br>
 <div align="center">
