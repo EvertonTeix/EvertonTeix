@@ -5,12 +5,9 @@
     <a href="https://www.linkedin.com/in/everton-teixeira-193325215";>Everton Teixeira 😃️</a>
   </h1>
   
-</div>
- <img align="right" alt="PC GIF" src="https://media.giphy.com/media/XHAv3GveJMXMXSumkO/giphy.gif" width = "30%" />
-<br>
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EvertonTeix&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EvertonTeix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
