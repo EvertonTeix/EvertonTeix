@@ -1,21 +1,25 @@
-<div>
+<div align="center">
   
-  <h1 align="center">
-    Eu sou o 
-    <a href="https://www.linkedin.com/in/everton-teixeira-193325215";>Everton Teixeira 😃️</a>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    👋 Olá, eu sou Everton Teixeira!
   </h1>
   
+  <p>
+    🔭 Atualmente estou cursando o 3º semestre de Ciência da Computação na Universidade Federal do Ceará - UFC.
+    Gosto de aprender sobre tecnologia e explorar novas áreas da programação.
+  </p>
+  
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EvertonTeix&show_icons=true&theme=blue&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=blue"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EvertonTeix&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=black"/>
 </div>
 
 ##
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="C" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
  
 </div><br>
 
@@ -24,5 +28,5 @@
   <a href="https://www.linkedin.com/in/everton-teixeira-193325215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:evertonteixe99@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/EvertonTeix"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  
-  
+</div>
+</div>
