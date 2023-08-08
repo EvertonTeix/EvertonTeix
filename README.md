@@ -5,13 +5,13 @@
   </h1>
   
   <p>
-    🔭 Atualmente estou cursando o 3º semestre de Ciência da Computação na Universidade Federal do Ceará - UFC.
+    🔭 Atualmente estou cursando o 4º semestre de Ciência da Computação na Universidade Federal do Ceará - UFC.
     Gosto de aprender sobre tecnologia e explorar novas áreas da programação.
   </p>
   
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EvertonTeix&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=darcula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EvertonTeix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonTeix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
