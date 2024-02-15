@@ -5,7 +5,7 @@
   </h1>
   
   <p>
-    🔭 Atualmente estou cursando o 4º semestre de Ciência da Computação na Universidade Federal do Ceará.
+    🔭 Atualmente estou cursando o 5º semestre de Ciência da Computação na Universidade Federal do Ceará.
     Gosto de aprender sobre tecnologia, matemática e explorar novas áreas da programação.
   </p>
   
