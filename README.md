@@ -5,8 +5,7 @@
   </h1>
   
   <p>
-    🔭 Atualmente estou cursando o 5º semestre de Ciência da Computação na Universidade Federal do Ceará.
-    Gosto de aprender sobre tecnologia, matemática e explorar novas áreas da programação.
+    🔭 Atualmente, estou cursando o 7º semestre de Ciência da Computação na Universidade Federal do Ceará. Tenho interesse em tecnologia, matemática e em explorar novas áreas da programação. No momento, também estou pesquisando sobre Green AI, que busca desenvolver inteligência artificial de forma mais sustentável, reduzindo o consumo energético dos modelos de aprendizado de máquina sem comprometer a qualidade dos resultados. Essa abordagem é essencial para tornar a IA mais acessível e ecologicamente responsável.
   </p>
   
 <div align="center">
